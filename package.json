@@ -10,8 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@react-three/drei": "^9.88.4",
+    "@react-three/fiber": "^8.14.6",
+    "framer-motion": "^10.16.4",
+    "maath": "^0.10.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
+    "react-tilt": "^1.0.2",
+    "react-vertical-timeline-component": "^3.6.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
@@ -21,6 +29,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "tailwindcss": "^3.3.3",
     "vite": "^4.4.5"
   }
 }
